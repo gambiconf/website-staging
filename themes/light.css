@@ -29,7 +29,7 @@ header {
 /* Background cover Home */
 
 main > section {
-  background-color: #a8b8f1;
+  background-color: #08BF1B;
 }
 
 .window {
@@ -59,4 +59,13 @@ footer {
 
 .svelte-select .item {
   color: #54595f;
+}
+
+/* Link */
+.link {
+  color: rgb(159, 91, 1);
+}
+
+.link:hover {
+  color: #ff8915;
 }
