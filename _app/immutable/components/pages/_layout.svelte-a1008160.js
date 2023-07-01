@@ -16,7 +16,7 @@ header--cfp = CFP
 
 hero--subtitle = The Blow Your Mind Conference
 hero--date-first-line = December
-hero--date-second-line = 2nd and 3rd
+hero--date-second-line = 9th and 10th
 hero--location-first-line = USP - Campus Butantã
 hero--location-second-line = São Paulo, Brazil
 hero--twitter-cta = Follow us on Twitter
@@ -45,7 +45,7 @@ row-what-is-gambiconf--body-paragraph-5 =
 ## Where and When
 
 where-and-when--title = Where and When
-where-and-when--body-paragraph-1 = December 2nd and 3rd, at <a data-l10n-name='link'>USP - Campus Butantã</a>.
+where-and-when--body-paragraph-1 = December 9th and 10th, at <a data-l10n-name='link'>USP - Campus Butantã</a>.
 where-and-when--body-paragraph-2 = Free streaming on <a data-l10n-name='link'>YouTube</a>
 
 ## Calendar
@@ -68,7 +68,7 @@ call-for-proposal--body-paragraph-1 =
 call-for-proposal--body-paragraph-2 =
   Are you willing to speak at GambiConf, but don't know what to talk about?
   <a data-l10n-name='link'>Click here.</a>
-call-for-proposal--body-paragraph-3 = The deadline is Jul 31.
+call-for-proposal--body-paragraph-3 = The deadline is Aug 27.
 call-for-proposal--cta = Apply to the CFP
 
 ## Partners
@@ -139,7 +139,7 @@ header--cfp = CFP
 ## Hero
 
 hero--subtitle = The Blow Your Mind Conference
-hero--date-first-line = 2 e 3 de
+hero--date-first-line = 9 e 10 de
 hero--date-second-line = dezembro
 hero--location-first-line = USP - Campus Butantã
 hero--location-second-line = São Paulo, Brasil
@@ -170,7 +170,7 @@ row-what-is-gambiconf--body-paragraph-5 =
 ## Where and When
 
 where-and-when--title = Onde e quando
-where-and-when--body-paragraph-1 = 2 e 3 de Dezembro, na <a data-l10n-name='link'>USP - Campus Butantã</a>.
+where-and-when--body-paragraph-1 = 9 e 10 de Dezembro, na <a data-l10n-name='link'>USP - Campus Butantã</a>.
 where-and-when--body-paragraph-2 = Streaming gratuito no <a data-l10n-name='link'>YouTube</a>
 
 ## Calendar
@@ -192,7 +192,7 @@ call-for-proposal--body-paragraph-1 =
   ciência da computação, venha compartilhar a sua experiência conosco! Queremos te ouvir!
 call-for-proposal--body-paragraph-2 =
   Ou se você quer apresentar na GambiConf, mas sem está sem muitas ideias ainda, <a data-l10n-name='link'>leia essa thread.</a>
-call-for-proposal--body-paragraph-3 = O deadline é 31 de Julho.
+call-for-proposal--body-paragraph-3 = O deadline é 27 de Agosto.
 call-for-proposal--cta = Submeter no CFP
 
 ## Partners
