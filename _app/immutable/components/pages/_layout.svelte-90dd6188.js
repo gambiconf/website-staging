@@ -125,8 +125,10 @@ cfp--section-contacts = Contacts
 cfp--field-social-medias = Social Medias (it'll be public)
 cfp--field-email = E-Mail for the feedback (we won't share it)
 cfp--submit = Submit
+cfp--update = Update submission
 cfp--submit-success = Successfully submitted
 cfp--submit-error = Failed to submit
+cfp--clear-form = Clear form to submit a new entry
 
 # ThemeSwitch
 theme--light = Switch to dark mode
@@ -254,8 +256,10 @@ cfp--section-contacts = Contatos
 cfp--field-social-medias = Medias sociais (isso será público)
 cfp--field-email = E-Mail para o feedback (não será publicado)
 cfp--submit = Submeter
+cfp--update = Atualizar submissão
 cfp--submit-success = Submetido com sucesso
 cfp--submit-error = Erro ao submter
+cfp--clear-form = Apagar formulário para submteter uma nova entrada
 
 # ThemeSwitch
 theme--light = Trocar para dark mode
