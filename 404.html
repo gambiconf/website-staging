@@ -4,25 +4,36 @@
     <meta charset="utf-8" />
     <link rel="icon" href="/website-staging/favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="content-security-policy" content="">
-		<link rel="modulepreload" href="/website-staging/_app/immutable/start-13a2a237.js">
-		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/index-f0f349b4.js">
-		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/singletons-e4d43dfb.js">
-		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/index-2a0a44db.js">
-		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/paths-05dfbe0c.js">
-		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/preload-helper-41c905a7.js">
+    
+		<link rel="modulepreload" href="/website-staging/_app/immutable/entry/start.D-ISwlrv.js">
+		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/entry.BsDuh2RU.js">
+		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/scheduler.BtE1yXRM.js">
+		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/index.DVo2_onA.js">
+		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/paths.Yun6d5hp.js">
+		<link rel="modulepreload" href="/website-staging/_app/immutable/entry/app.D_15O1L-.js">
+		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/preload-helper.D6kgxu3v.js">
+		<link rel="modulepreload" href="/website-staging/_app/immutable/chunks/index.KiXHJTy6.js">
   </head>
-  <body>
-    <div>
-		<script type="module" data-sveltekit-hydrate="45h">
-			import { start } from "/website-staging/_app/immutable/start-13a2a237.js";
 
-			start({
-				assets: "/website-staging",
-				env: {},
-				target: document.querySelector('[data-sveltekit-hydrate="45h"]').parentNode,
-				version: "1698799292641"
-			});
-		</script></div>
+  <body>
+    
+			<script>
+				{
+					__sveltekit_16zk0dx = {
+						base: "/website-staging",
+						assets: "/website-staging"
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("/website-staging/_app/immutable/entry/start.D-ISwlrv.js"),
+						import("/website-staging/_app/immutable/entry/app.D_15O1L-.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		
   </body>
 </html>
