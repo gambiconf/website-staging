@@ -14,8 +14,9 @@
 
 body,
 .wrapper-content {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
-    url("/mambi-icon-oulined.png");
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),
+    url("/background.png");
 }
 
 header {
@@ -24,7 +25,7 @@ header {
 }
 
 .button a {
-  background-color: #f34b21;
+  background-color: #da350b;
   color: white;
 }
 

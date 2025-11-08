@@ -7,8 +7,9 @@
 
 body,
 .wrapper-content {
-  background-image: linear-gradient(rgba(24, 26, 27, 0.7), rgba(24, 26, 27, 0.7)),
-    url("/mambi-icon-oulined.png");
+  background-image:
+    linear-gradient(rgba(24, 26, 27, 0.7), rgba(24, 26, 27, 0.7)),
+    url("/background.png");
 }
 
 header {
@@ -30,9 +31,13 @@ header {
   color: rgb(209, 207, 204);
 }
 
+.social-media-icon svg {
+  color: rgb(199 162 127);
+}
+
 /* Background cover Home */
 
-main > section:not(.code-of-conduct) {
+main > section.hero {
   background-color: #012a1c;
 }
 
